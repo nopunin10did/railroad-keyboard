@@ -828,7 +828,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5EEDDEA0)
-    (at 195.78 23.78875)
+    (at 419.1 328.6125)
     (path /5F423170)
     (fp_text reference MX909 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -862,7 +862,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.5U-NoLED (layer F.Cu) (tedit 5A9F5217) (tstamp 5EEDDE89)
-    (at 57.8425 126.06875)
+    (at 371.475 323.85)
     (path /5F423158)
     (fp_text reference MX908 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -896,7 +896,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5EEDDE72)
-    (at 43.56 167.74875)
+    (at 314.325 328.6125)
     (path /5F423140)
     (fp_text reference MX907 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -930,7 +930,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.75U-NoLED (layer F.Cu) (tedit 5A9F5220) (tstamp 5EEDDE5B)
-    (at 69.75375 85.66875)
+    (at 288.13125 328.6125)
     (path /5F423128)
     (fp_text reference MX906 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -964,7 +964,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-2.25U-NoLED (layer F.Cu) (tedit 5A9F5245) (tstamp 5EEDF52F)
-    (at 504.825 284.95625)
+    (at 250.03125 328.6125)
     (path /5F423110)
     (fp_text reference MX905 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1002,7 +1002,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-2.75U-NoLED (layer F.Cu) (tedit 5A9F5299) (tstamp 5EEDF492)
-    (at 494.50625 257.175)
+    (at 202.40625 328.6125)
     (path /5F4230F8)
     (fp_text reference MX904 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1040,7 +1040,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.75U-NoLED (layer F.Cu) (tedit 5A9F5220) (tstamp 5EEDDE0E)
-    (at 25.74375 107.14875)
+    (at 159.54375 328.6125)
     (path /5F4230E0)
     (fp_text reference MX903 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1074,7 +1074,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5EEDDDF7)
-    (at 53.08 146.26875)
+    (at 133.35 328.6125)
     (path /5F4230C8)
     (fp_text reference MX902 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1108,7 +1108,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5210) (tstamp 5EEDDDE0)
-    (at 89.95125 105.86875)
+    (at 83.34375 323.85)
     (path /5F4230B0)
     (fp_text reference MX901 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1176,7 +1176,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5EEDDDB2)
-    (at 170.82 43.98875)
+    (at 438.15 328.6125)
     (path /5F42317C)
     (fp_text reference MX810 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1210,7 +1210,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5EEDDD9B)
-    (at 112.53 103.43875)
+    (at 400.05 328.6125)
     (path /5F423164)
     (fp_text reference MX809 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1244,7 +1244,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.5U-NoLED (layer F.Cu) (tedit 5A9F5217) (tstamp 5EEDDD84)
-    (at 116.1425 63.03875)
+    (at 342.9 323.85)
     (path /5F42314C)
     (fp_text reference MX808 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1278,7 +1278,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.25U-NoLED (layer F.Cu) (tedit 5A9F5210) (tstamp 5EEDDD6D)
-    (at 20.98125 167.74875)
+    (at 107.15625 323.85)
     (path /5F4230BC)
     (fp_text reference MX802 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1312,7 +1312,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.5U-NoLED (layer F.Cu) (tedit 5A9F5217) (tstamp 5EEDDD56)
-    (at 62.6125 105.86875)
+    (at 57.15 323.85)
     (path /5F4230A4)
     (fp_text reference MX801 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1346,7 +1346,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5EEDDD3F)
-    (at 73.28 146.26875)
+    (at 9.525 328.6125)
     (path /5F42308C)
     (fp_text reference MX800 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1380,7 +1380,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5EEDDD28)
-    (at 224.2 124.78875)
+    (at 419.1 309.5625)
     (path /5F40373F)
     (fp_text reference MX709 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1414,7 +1414,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5EEDDD11)
-    (at 126.81 83.23875)
+    (at 361.95 304.8)
     (path /5F403727)
     (fp_text reference MX708 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1448,7 +1448,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5EEDDCFA)
-    (at 147.01 64.18875)
+    (at 323.85 304.8)
     (path /5F40370F)
     (fp_text reference MX707 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1482,7 +1482,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5EEDDCE3)
-    (at 211.22 43.98875)
+    (at 285.75 304.8)
     (path /5F4036F7)
     (fp_text reference MX706 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1516,7 +1516,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5EEDDCCC)
-    (at 256.38 23.78875)
+    (at 242.8875 304.8)
     (path /5F4036DF)
     (fp_text reference MX705 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1550,7 +1550,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5EEDDCB5)
-    (at 133.88 144.98875)
+    (at 204.7875 304.8)
     (path /5F4036C7)
     (fp_text reference MX704 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1584,7 +1584,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5EEDDC9E)
-    (at 231.42 43.98875)
+    (at 161.925 304.8)
     (path /5F4036AF)
     (fp_text reference MX703 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1618,7 +1618,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5EEDDC87)
-    (at 175.58 23.78875)
+    (at 123.825 304.8)
     (path /5F403697)
     (fp_text reference MX702 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1652,7 +1652,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5EEDDC70)
-    (at 147.01 84.38875)
+    (at 85.725 304.8)
     (path /5F40367F)
     (fp_text reference MX701 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1686,7 +1686,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.75U-NoLED (layer F.Cu) (tedit 5A9F5220) (tstamp 5EEDDC59)
-    (at 25.74375 127.34875)
+    (at 388.14375 304.8)
     (path /5F403733)
     (fp_text reference MX609 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1720,7 +1720,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5EEDDC42)
-    (at 63.76 166.46875)
+    (at 342.9 304.8)
     (path /5F40371B)
     (fp_text reference MX608 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1754,7 +1754,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5EEDDC2B)
-    (at 191.02 43.98875)
+    (at 304.8 304.8)
     (path /5F403703)
     (fp_text reference MX607 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1788,7 +1788,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5EEDDC14)
-    (at 93.48 146.26875)
+    (at 266.7 304.8)
     (path /5F4036EB)
     (fp_text reference MX606 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1822,7 +1822,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5EEDDBFD)
-    (at 215.98 23.78875)
+    (at 223.8375 304.8)
     (path /5F4036D3)
     (fp_text reference MX605 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1856,7 +1856,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5EEDDBE6)
-    (at 187.41 84.38875)
+    (at 180.975 304.8)
     (path /5F4036BB)
     (fp_text reference MX604 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1890,7 +1890,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5EEDDBCF)
-    (at 167.21 84.38875)
+    (at 142.875 304.8)
     (path /5F4036A3)
     (fp_text reference MX603 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1924,7 +1924,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5EEDDBB8)
-    (at 83.96 166.46875)
+    (at 104.775 304.8)
     (path /5F40368B)
     (fp_text reference MX602 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1958,7 +1958,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-2.75U-NoLED (layer F.Cu) (tedit 5A9F5299) (tstamp 5EEDDBA1)
-    (at 35.26875 44.62875)
+    (at 50.00625 304.8)
     (path /5F403673)
     (fp_text reference MX601 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1996,7 +1996,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5EEDDB86)
-    (at 187.41 64.18875)
+    (at 9.525 309.5625)
     (path /5F40365B)
     (fp_text reference MX600 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2030,7 +2030,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.75U-NoLED (layer F.Cu) (tedit 5A9F5220) (tstamp 5EEDDB6F)
-    (at 69.75375 65.46875)
+    (at 407.19375 285.75)
     (path /5F3E5C38)
     (fp_text reference MX509 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2064,7 +2064,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5EEDDB58)
-    (at 143.4 104.58875)
+    (at 361.95 285.75)
     (path /5F3E5C20)
     (fp_text reference MX508 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2098,7 +2098,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5EEDDB41)
-    (at 167.21 64.18875)
+    (at 323.85 285.75)
     (path /5F3E5C08)
     (fp_text reference MX507 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2132,7 +2132,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5EEDDB2A)
-    (at 113.68 146.26875)
+    (at 285.75 285.75)
     (path /5F3E5BF0)
     (fp_text reference MX506 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2336,7 +2336,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5EEDDA7F)
-    (at 207.61 84.38875)
+    (at 381 285.75)
     (path /5F3E5C2C)
     (fp_text reference MX409 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2370,7 +2370,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5EEDDA68)
-    (at 227.81 64.18875)
+    (at 342.9 285.75)
     (path /5F3E5C14)
     (fp_text reference MX408 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2404,7 +2404,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5EEDDA51)
-    (at 251.62 43.98875)
+    (at 304.8 285.75)
     (path /5F3E5BFC)
     (fp_text reference MX407 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2438,7 +2438,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5EEDDA3A)
-    (at 154.08 144.98875)
+    (at 266.7 285.75)
     (path /5F3E5BE4)
     (fp_text reference MX406 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
