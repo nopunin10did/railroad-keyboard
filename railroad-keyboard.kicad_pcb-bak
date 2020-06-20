@@ -2132,7 +2132,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5EEDDB2A)
-    (at 285.75 285.75)
+    (at 113.68 146.26875)
     (path /5F3E5BF0)
     (fp_text reference MX506 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2438,7 +2438,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U-NoLED (layer F.Cu) (tedit 5A9F5203) (tstamp 5EEDDA3A)
-    (at 266.7 285.75)
+    (at 154.08 144.98875)
     (path /5F3E5BE4)
     (fp_text reference MX406 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
