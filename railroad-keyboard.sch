@@ -3399,25 +3399,25 @@ Wire Wire Line
 Connection ~ 17000 4350
 Wire Wire Line
 	17000 4350 17000 7350
-Text GLabel 2850 12200 2    50   Input ~ 0
+Text GLabel 2850 14000 2    50   Input ~ 0
 ROW1
-Text GLabel 2850 12100 2    50   Input ~ 0
+Text GLabel 2850 13900 2    50   Input ~ 0
 ROW0
-Text GLabel 2850 12400 2    50   Input ~ 0
-ROW3
-Text GLabel 2850 12300 2    50   Input ~ 0
-ROW2
 Text GLabel 2850 12600 2    50   Input ~ 0
-ROW5
+ROW3
 Text GLabel 2850 12500 2    50   Input ~ 0
-ROW4
-Text GLabel 2850 12800 2    50   Input ~ 0
-ROW7
+ROW2
 Text GLabel 2850 12700 2    50   Input ~ 0
-ROW6
-Text GLabel 2850 13100 2    50   Input ~ 0
-ROW9
+ROW5
 Text GLabel 2850 13000 2    50   Input ~ 0
+ROW4
+Text GLabel 2850 14500 2    50   Input ~ 0
+ROW7
+Text GLabel 2850 14600 2    50   Input ~ 0
+ROW6
+Text GLabel 2850 14700 2    50   Input ~ 0
+ROW9
+Text GLabel 2850 13100 2    50   Input ~ 0
 ROW8
 Wire Wire Line
 	2750 13100 2850 13100
@@ -3439,27 +3439,27 @@ Wire Wire Line
 	2850 12100 2750 12100
 Wire Wire Line
 	2850 12200 2750 12200
-Text GLabel 2850 13300 2    50   Input ~ 0
+Text GLabel 2850 12100 2    50   Input ~ 0
 COL0
-Text GLabel 2850 13400 2    50   Input ~ 0
+Text GLabel 2850 12200 2    50   Input ~ 0
 COL1
-Text GLabel 2850 13500 2    50   Input ~ 0
+Text GLabel 2850 12300 2    50   Input ~ 0
 COL2
-Text GLabel 2850 13600 2    50   Input ~ 0
+Text GLabel 2850 12400 2    50   Input ~ 0
 COL3
-Text GLabel 2850 13700 2    50   Input ~ 0
+Text GLabel 2850 12800 2    50   Input ~ 0
 COL4
-Text GLabel 2850 13800 2    50   Input ~ 0
+Text GLabel 2850 13300 2    50   Input ~ 0
 COL5
-Text GLabel 2850 14000 2    50   Input ~ 0
+Text GLabel 2850 13500 2    50   Input ~ 0
 COL7
-Text GLabel 2850 14500 2    50   Input ~ 0
+Text GLabel 2850 13600 2    50   Input ~ 0
 COL8
-Text GLabel 2850 14600 2    50   Input ~ 0
+Text GLabel 2850 13800 2    50   Input ~ 0
 COL9
-Text GLabel 2850 14700 2    50   Input ~ 0
+Text GLabel 2850 13700 2    50   Input ~ 0
 COL10
-Text GLabel 2850 13900 2    50   Input ~ 0
+Text GLabel 2850 13400 2    50   Input ~ 0
 COL6
 Wire Wire Line
 	2750 14200 3150 14200
