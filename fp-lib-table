@@ -4,4 +4,5 @@
   (lib (name MX_Only)(type KiCad)(uri C:/OtherDev/MX_Alps_Hybrid/MX_Only.pretty)(options "")(descr ""))
   (lib (name Keebio-Parts)(type KiCad)(uri C:/OtherDev/Keebio-Parts.pretty)(options "")(descr ""))
   (lib (name usb-mini-1734510-1)(type KiCad)(uri C:/OtherDev/usb-mini-1734510-1)(options "")(descr ""))
+  (lib (name locallib)(type KiCad)(uri C:/OtherDev/Soyuz/locallib.pretty)(options "")(descr ""))
 )
