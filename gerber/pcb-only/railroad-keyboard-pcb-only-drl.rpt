@@ -1,0 +1,29 @@
+Drill report for C:/OtherDev/railroad-keyboard/railroad-keyboard-pcb-only.kicad_pcb
+Created on 7/9/2020 12:42:01 PM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'railroad-keyboard-pcb-only-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.40mm  0.016"  (69 holes)
+    T2  0.70mm  0.028"  (7 holes)  (with 2 slots)
+    T3  0.90mm  0.035"  (4 holes)  (with 4 slots)
+    T4  1.47mm  0.058"  (196 holes)
+
+    Total plated holes count 276
+
+
+Drill file 'railroad-keyboard-pcb-only-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  0.80mm  0.031"  (2 holes)
+    T2  1.75mm  0.069"  (196 holes)
+    T3  3.05mm  0.120"  (14 holes)
+    T4  3.99mm  0.157"  (112 holes)
+
+    Total unplated holes count 324
