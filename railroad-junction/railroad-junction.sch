@@ -1172,17 +1172,6 @@ Wire Wire Line
 	7600 2150 7600 2250
 Connection ~ 7600 2150
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX281_100
-U 1 1 5F119D5B
-P 8600 1900
-F 0 "MX281_100" H 8633 2123 60  0000 C CNN
-F 1 "MX-NoLED" H 8633 2049 20  0000 C CNN
-F 2 "railroad-junction:MXOnly-1U-Symmetric" H 7975 1875 60  0001 C CNN
-F 3 "" H 7975 1875 60  0001 C CNN
-	1    8600 1900
-	1    0    0    -1  
-$EndComp
-$Comp
 L Device:D_Small D281
 U 1 1 5F119D61
 P 8550 2350
@@ -1193,8 +1182,6 @@ F 3 "~" V 8550 2350 50  0001 C CNN
 	1    8550 2350
 	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	8550 2050 8550 2150
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX281_175
 U 1 1 5F119D68
@@ -1210,18 +1197,6 @@ Wire Wire Line
 	8950 2150 8550 2150
 Wire Wire Line
 	8550 2150 8550 2250
-Connection ~ 8550 2150
-$Comp
-L MX_Alps_Hybrid:MX-NoLED MX291_100
-U 1 1 5F11BA7F
-P 9550 1900
-F 0 "MX291_100" H 9583 2123 60  0000 C CNN
-F 1 "MX-NoLED" H 9583 2049 20  0000 C CNN
-F 2 "railroad-junction:MXOnly-1U-Symmetric" H 8925 1875 60  0001 C CNN
-F 3 "" H 8925 1875 60  0001 C CNN
-	1    9550 1900
-	1    0    0    -1  
-$EndComp
 $Comp
 L Device:D_Small D291
 U 1 1 5F11BA85
@@ -1233,8 +1208,6 @@ F 3 "~" V 9500 2350 50  0001 C CNN
 	1    9500 2350
 	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	9500 2050 9500 2150
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX291_150
 U 1 1 5F11BA8C
@@ -1250,7 +1223,6 @@ Wire Wire Line
 	9900 2150 9500 2150
 Wire Wire Line
 	9500 2150 9500 2250
-Connection ~ 9500 2150
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX372_100
 U 1 1 5F1228E2
@@ -1871,13 +1843,6 @@ Wire Wire Line
 	8850 1200 9150 1200
 Connection ~ 9150 1200
 Wire Wire Line
-	9150 1200 9150 1850
-Wire Wire Line
-	8750 1850 9150 1850
-Connection ~ 9150 1850
-Wire Wire Line
-	9150 1850 9150 1950
-Wire Wire Line
 	9150 1950 9150 2700
 Wire Wire Line
 	9150 2800 9100 2800
@@ -1924,8 +1889,6 @@ Wire Wire Line
 Wire Wire Line
 	10100 1000 10100 1100
 Connection ~ 9700 1000
-Wire Wire Line
-	10100 1100 10100 1850
 Connection ~ 10100 1100
 Wire Wire Line
 	10100 1950 10350 1950
@@ -1965,11 +1928,6 @@ Wire Wire Line
 Connection ~ 10350 3550
 Wire Wire Line
 	10350 3550 10350 2800
-Wire Wire Line
-	9700 1850 10100 1850
-Connection ~ 10100 1850
-Wire Wire Line
-	10100 1850 10100 1950
 Text GLabel 1900 1700 0    50   Input ~ 0
 Row0
 Text GLabel 1850 2450 0    50   Input ~ 0
@@ -2242,4 +2200,8 @@ Wire Wire Line
 	3200 2850 3200 3700
 Wire Wire Line
 	3200 1850 3200 2850
+Wire Wire Line
+	10100 1100 10100 1950
+Wire Wire Line
+	9150 1200 9150 1950
 $EndSCHEMATC
