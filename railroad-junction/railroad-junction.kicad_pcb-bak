@@ -1761,7 +1761,7 @@
   )
 
   (module railroad-junction:MXOnly-1U-Symmetric (layer F.Cu) (tedit 5F0BDD1A) (tstamp 5F0C4FDA)
-    (at 193.675 36.5125)
+    (at 226.345 293.174)
     (path /5F1143B4)
     (fp_text reference MX190_100 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1833,7 +1833,7 @@
   )
 
   (module railroad-junction:MXOnly-1U-Symmetric (layer F.Cu) (tedit 5F0BDD1A) (tstamp 5F0C4FAC)
-    (at 155.575 36.5125)
+    (at 141.745 375.894)
     (path /5F10EFB2)
     (fp_text reference MX170_100 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2615,7 +2615,7 @@
   )
 
   (module railroad-junction:MXOnly-1U-Symmetric (layer F.Cu) (tedit 5F0BDD1A) (tstamp 5F0C4DC9)
-    (at 174.625 36.5125)
+    (at 242.885 232.574)
     (path /5F1115A7)
     (fp_text reference MX180 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2649,7 +2649,7 @@
   )
 
   (module railroad-junction:MXOnly-1U-Symmetric (layer F.Cu) (tedit 5F0BDD1A) (tstamp 5F0C4DB4)
-    (at 136.525 34.13125)
+    (at 185.945 293.174)
     (path /5F0DD4B8)
     (fp_text reference MX160 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2683,7 +2683,7 @@
   )
 
   (module railroad-junction:MXOnly-1U-Symmetric (layer F.Cu) (tedit 5F0BDD1A) (tstamp 5F0C4D9F)
-    (at 117.475 29.36875)
+    (at 146.695 333.574)
     (path /5F0D6B32)
     (fp_text reference MX150 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2717,7 +2717,7 @@
   )
 
   (module railroad-junction:MXOnly-1U-Symmetric (layer F.Cu) (tedit 5F0BDD1A) (tstamp 5F0C4D8A)
-    (at 98.425 26.9875)
+    (at 210.905 272.974)
     (path /5F0D5C85)
     (fp_text reference MX140 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))

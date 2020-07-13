@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name random-keyboard-parts)(type KiCad)(uri C:/OtherDev/random-keyboard-parts.pretty)(options "")(descr ""))
+  (lib (name Keebio-Parts)(type KiCad)(uri C:/OtherDev/Keebio-Parts.pretty)(options "")(descr ""))
+  (lib (name MX_Only)(type KiCad)(uri C:/OtherDev/MX_Alps_Hybrid/MX_Only.pretty)(options "")(descr ""))
+  (lib (name "ErgoDOX pcb")(type KiCad)(uri "C:/OtherDev/ErgoDox/ErgoDOX pcb")(options "")(descr ""))
+)
