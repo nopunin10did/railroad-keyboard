@@ -3729,41 +3729,26 @@ F 3 "" H 6850 13700 50  0001 C CNN
 	1    6850 13700
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	6700 13700 6850 13700
 $Comp
-L power:Earth_Clean #PWR0120
-U 1 1 5F178B7E
-P 6450 13700
-F 0 "#PWR0120" H 6700 13700 50  0001 C CNN
-F 1 "Earth_Clean" H 6750 13550 50  0001 C CNN
-F 2 "" H 6450 13650 50  0001 C CNN
-F 3 "~" H 6450 13650 50  0001 C CNN
-	1    6450 13700
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	6450 13700 6600 13700
-$Comp
-L Connector_Generic:Conn_01x02 J3
-U 1 1 5F1E2FD0
-P 6600 13500
-F 0 "J3" V 6564 13312 50  0000 R CNN
-F 1 "Conn_01x02" V 6473 13312 50  0000 R CNN
-F 2 "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Horizontal" H 6600 13500 50  0001 C CNN
-F 3 "~" H 6600 13500 50  0001 C CNN
-	1    6600 13500
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x01 J?
+L Connector_Generic:Conn_01x01 J2
 U 1 1 5F2DF526
 P 7100 13000
-F 0 "J?" H 7180 13042 50  0000 L CNN
+F 0 "J2" H 7180 13042 50  0000 L CNN
 F 1 "Conn_01x01" H 7180 12951 50  0000 L CNN
-F 2 "" H 7100 13000 50  0001 C CNN
+F 2 "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Horizontal" H 7100 13000 50  0001 C CNN
 F 3 "~" H 7100 13000 50  0001 C CNN
 	1    7100 13000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J3
+U 1 1 5F3408A6
+P 7050 13700
+F 0 "J3" H 7130 13742 50  0000 L CNN
+F 1 "Conn_01x01" H 7130 13651 50  0000 L CNN
+F 2 "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Horizontal" H 7050 13700 50  0001 C CNN
+F 3 "~" H 7050 13700 50  0001 C CNN
+	1    7050 13700
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
